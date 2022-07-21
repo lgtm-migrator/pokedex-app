@@ -150,7 +150,7 @@
     "@iconify/react": "3.2.2",
     "@types/react-helmet": "6.1.5",
     "eslint-config-prettier": "8.5.0",
-    "eslint-plugin-jsx-a11y": "6.5.1",
+    "eslint-plugin-jsx-a11y": "6.6.1",
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-simple-import-sort": "7.0.0",
     "eslint-plugin-unused-imports": "2.0.0",
